@@ -20,3 +20,4 @@ prepros-6.config
 /node_modules/*
 /storage/*
 /web/dist/*
+/web/cpresources/*
