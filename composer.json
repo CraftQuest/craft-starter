@@ -1,7 +1,7 @@
 {
   "name": "CraftQuest/craft-starter",
   "description": "A starter Craft installation from livestream with Andrew Welch.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "craftcms/cms": "^3.0.0",
     "yiisoft/yii2-redis": "^2.0.6",
