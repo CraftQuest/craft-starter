@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 1.0.4 - 2020-06-01
+### Changed
+- Updated packages to latest.
+
 ## 1.0.3 - 2018-11-02
 ### Changed
 - We made a mistake. Added type of project to composer file.

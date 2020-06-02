@@ -1,7 +1,7 @@
 {
   "name": "craftquest/craft-starter",
   "description": "A starter Craft installation from livestream with Andrew Welch.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "project",
   "require": {
     "craftcms/cms": "^3.0.0",
