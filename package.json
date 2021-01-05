@@ -116,7 +116,7 @@
     },
     "dependencies": {
         "@babel/polyfill": "^7.0.0",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "tailwindcss": "^0.6.6",
         "vue": "^2.5.17",
         "vue-confetti": "^0.4.2"
