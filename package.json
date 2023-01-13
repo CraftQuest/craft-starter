@@ -106,7 +106,7 @@
         "webapp-webpack-plugin": "https://github.com/brunocodutra/webapp-webpack-plugin.git",
         "webpack": "^4.19.1",
         "webpack-bundle-analyzer": "^3.0.2",
-        "webpack-cli": "^3.1.1",
+        "webpack-cli": "^3.3.12",
         "webpack-dashboard": "^2.0.0",
         "webpack-dev-server": "^3.1.9",
         "webpack-manifest-plugin": "^2.0.4",
